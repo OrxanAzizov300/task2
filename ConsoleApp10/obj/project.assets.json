@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\I novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
+      "projectUniqueName": "C:\\Users\\I novbe\\Desktop\\task\\ConsoleApp10\\ConsoleApp10.csproj",
       "projectName": "ConsoleApp10",
-      "projectPath": "C:\\Users\\I novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
+      "projectPath": "C:\\Users\\I novbe\\Desktop\\task\\ConsoleApp10\\ConsoleApp10.csproj",
       "packagesPath": "C:\\Users\\I novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\obj\\",
+      "outputPath": "C:\\Users\\I novbe\\Desktop\\task\\ConsoleApp10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
