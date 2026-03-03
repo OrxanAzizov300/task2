@@ -26,10 +26,16 @@
 
             //task4
 
-            int a = 3;
-            int b = 4;
-            int sahe = (a * b) / 2;
-            Console.WriteLine(sahe);
+            //int a = 3;
+            //int b = 4;
+            //int sahe = (a * b) / 2;
+            //Console.WriteLine(sahe);
+
+            string firstProduct = "product1";
+            int firstProductInitialPrice = 40;
+            int discountPercentage = 50;
+            int firstProductLastPrice = (40 * 50) / 100;
+            Console.WriteLine(firstProductLastPrice);
 
         }
     }
